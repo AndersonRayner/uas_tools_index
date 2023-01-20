@@ -22,6 +22,8 @@ telemetry connection between the two.
 - [uas_templates](https://github.com/AndersonRayner/uas_templates)
   - A collection of templates for checklists, flight logging, etc. that have been found to be useful when planning
 fi eld trips.
+- [udev_rules](https://github.com/AndersonRayner/udev_rules)
+  - udev rules allow the operating system to assign consistent names to ports on the computer, so that the device on ttyUSB0 is always the same device. 
 
 This repo accompanies the paper
 
