@@ -27,4 +27,4 @@ fi eld trips.
 
 This repo accompanies the paper
 
-Matthew Anderson, Kai Lehmkuehler, Jeremy Randle, K.C. Wong and Soon-Jo Chung, "*UAS Flight Testing in Support of Research for Academia: Lessons and Experiences from the Field*," AIAA SciTech Forum 2023, National Harbor, MD, January 2023.
+Matthew Anderson, Kai Lehmkuehler, Jeremy Randle, K.C. Wong and Soon-Jo Chung, "[UAS Flight Testing in Support of Research for Academia: Lessons and Experiences from the Field](paper/Flight_Testing_in_Academia.pdf)," AIAA SciTech Forum 2023, National Harbor, MD, January 2023.
